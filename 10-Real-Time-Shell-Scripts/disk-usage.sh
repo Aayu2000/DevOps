@@ -3,7 +3,7 @@
 # Author: Aayush
 # Date: 14/05/2024
 # Version: V1
-# This script will list he usernames of github users who has access to the specified repository
+#
 #
 # Usage - call the script it will display the disk usage in percentage and a warning message if its above 80%
 ###############################
