@@ -1,4 +1,3 @@
-#!/bin/bash
 ###############################
 # Author: Aayush
 # Date: 14/05/2024
@@ -7,6 +6,9 @@
 #
 # Usage - call the script it will display the disk usage in percentage and a warning message if its above 80%
 ###############################
+
+#!/bin/bash
+
 # Set the threshold percentage
 THRESHOLD=80
 # Get the disk usage percentage of the root filesystem
