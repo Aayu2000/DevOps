@@ -2,7 +2,7 @@
 # Author: Aayush
 # Date: 14/05/2024
 # Version: V1
-#
+# Description: This script will echo the disk usage in percentage
 #
 # Usage - call the script it will display the disk usage in percentage and a warning message if its above 80%
 ###############################
