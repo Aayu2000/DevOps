@@ -2,7 +2,7 @@
 # Author: Aayush
 # Date: 14/05/2024
 # Version: V1
-# This script will backup folder with all its content
+# Description: This script will backup folder with all its content
 #
 # Usage - call the script it will create a backup of the specified source file or folder
 ###############################
