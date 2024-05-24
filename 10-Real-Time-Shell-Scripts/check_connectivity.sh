@@ -2,7 +2,7 @@
 # Author: Aayush
 # Date: 24/05/2024
 # Version: V1
-# This script will check the network connectivity with the specified host
+# Description: This script will check the network connectivity with the specified host
 #
 # Usage - call the script it will show message as connectivity to host is successful/failed
 ###############################
