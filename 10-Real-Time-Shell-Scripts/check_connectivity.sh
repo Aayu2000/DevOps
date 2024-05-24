@@ -1,4 +1,3 @@
-#!/bin/bash
 ###############################
 # Author: Aayush
 # Date: 24/05/2024
@@ -7,6 +6,8 @@
 #
 # Usage - call the script it will show message as connectivity to host is successful/failed
 ###############################
+
+#!/bin/bash
 
 # Host to check connectivity
 HOST="$1"
