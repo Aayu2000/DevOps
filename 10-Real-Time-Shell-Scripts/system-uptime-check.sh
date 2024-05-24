@@ -2,7 +2,7 @@
 # Author: Aayush
 # Date: 24/05/2024
 # Version: V1
-# This script will check the system uptime
+# Description: This script will check the system uptime
 #
 # Usage - call the script it will show the system uptime
 ###############################
