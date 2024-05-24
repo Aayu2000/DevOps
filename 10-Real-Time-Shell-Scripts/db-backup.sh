@@ -2,7 +2,7 @@
 # Author: Aayush
 # Date: 24/05/2024
 # Version: V1
-# This script will backup mysql database
+# Description: This script will backup mysql database
 #
 # Usage - call the script it will create a backup of the specified database in /home/ubuntu/Database_Backup with a timestamp
 ###############################
