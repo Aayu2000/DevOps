@@ -2,7 +2,7 @@
 # Author: Aayush
 # Date: 23/05/2024
 # Version: V1
-# This script will check if the service is running if not then it will start the service
+# Description: This script will check if the service is running if not then it will start the service
 #
 # Usage - call the script with the service name
 ###############################
