@@ -1,4 +1,3 @@
-#!/bin/bash
 ###############################
 # Author: Aayush
 # Date: 14/05/2024
@@ -7,6 +6,9 @@
 #
 # Usage - call the script it will create a backup of the specified source file or folder
 ###############################
+
+#!/bin/bash
+
 # Source directory to back up
 SOURCE_DIR="/home/ubuntu/Source/"
 
