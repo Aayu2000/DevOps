@@ -1,4 +1,3 @@
-#!/bin/bash
 ###############################
 # Author: Aayush
 # Date: 23/05/2024
@@ -7,6 +6,8 @@
 #
 # Usage - call the script with the service name
 ###############################
+
+#!/bin/bash
 
 # Function to check if a service exists
 service_exists() {
